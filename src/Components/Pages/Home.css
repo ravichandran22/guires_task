@@ -1,0 +1,84 @@
+.homepage-container{
+    overflow: hidden;
+}
+.titleStyle::after{
+    background-color: #3b6fb6;
+    content: "";
+    display: inline-block;
+    height: 3px;
+    position: relative;
+    vertical-align: middle;
+    width: 100%;
+    color: #3b6fb6;
+    left: 0.5em;
+    margin-right: -50%;
+}
+.WorkFor{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 40px 0px;
+}
+.title{
+    padding-left: 0px !important;
+}
+.categories{
+    background-color: #dbdbdb;
+    overflow: hidden;
+}
+.categories .row{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 40px 0px;
+    overflow: hidden;
+    width: auto;
+}
+.categories .row .col{
+    column-gap: 10px;
+}
+.categories .category{
+    background-color: #fff;
+    padding: 5px;
+    text-align: center;
+    margin: 0px 10px;
+    border-bottom: 8px solid #18974c;
+}
+
+.advantage-container{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 40px 0px 40px 0px;
+    text-align: left;
+}
+
+.cardContainer{
+    background-image: url('../../Images/pubrica-bne-new.jpeg');
+}
+.latest-news{
+    padding: 50px 100px;
+    text-align: left;
+}
+
+.service-container{
+    background-image: url('../../Images/Research-service.jpg');
+    flex-basis: 30% !important;
+    max-width: 30% !important;
+}
+.service-container-2{
+    background-image: url('../../Images/bokkf.jpg');
+    flex-basis: 30% !important;
+    max-width: 30% !important;
+}
+.service-container-3{
+    background-image: url('../../Images/dml.jpg');
+    flex-basis: 30% !important;
+    max-width: 30% !important;
+}
+.serviceCard{
+    background-color: #fff;
+    color: #000;
+    padding: 30px;
+    text-align: left;
+    border-top-left-radius: 20px;
+    margin-top: 120px;
+    margin-left: 30px;
+}

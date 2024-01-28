@@ -1,0 +1,31 @@
+.sliderImg1{
+    background-image: url('../../Images/bokkf.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 378px;
+}
+.sliderImg2{
+    background-image: url('../../Images/pharmaceuticals.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 378px;
+}
+.sliderImg3{
+    background-image: url('../../Images/Researchers.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 378px;
+}
+.sliderImg4{
+    background-image: url('../../Images/university.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 378px;
+}
+.SliderContent{
+   padding: 30px 50px 30px 50px;
+}

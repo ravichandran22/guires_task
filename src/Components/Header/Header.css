@@ -1,0 +1,34 @@
+
+.contact-details ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.contact-details li{
+    padding: 0px 10px;
+    font-size: 14px;
+}
+.contact-details li span{
+    padding-right: 5px;
+}
+.announcementBar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2C2C2C;
+    color: #fff;
+}
+.contactUs{
+    padding-right: 35px;
+}
+
+/* card */
+.card-container{
+    background-image: url('../../Images/pubrica-bne-new.jpeg');
+    padding: 40px 0px;
+}
+.card-container .card{
+    width: 38%;
+    background-color: #fff;
+    text-align: left;
+    padding: 50px;
+    margin-left: 100px;
+}

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/guires_task/static/css/main.081373b6.css",
+    "main.js": "/guires_task/static/js/main.11981be2.js",
+    "static/js/787.1d5d68d6.chunk.js": "/guires_task/static/js/787.1d5d68d6.chunk.js",
+    "static/media/pubrica-bne-new.jpeg": "/guires_task/static/media/pubrica-bne-new.ca64311466208b6eda98.jpeg",
+    "static/media/Research-service.jpg": "/guires_task/static/media/Research-service.e971616f3dea48f84fe2.jpg",
+    "static/media/dml.jpg": "/guires_task/static/media/dml.1f6d339170c0be7fed74.jpg",
+    "static/media/Medical-device.jpg": "/guires_task/static/media/Medical-device.916def3578c798bd57db.jpg",
+    "static/media/pharmaceuticals.jpg": "/guires_task/static/media/pharmaceuticals.248307542342572c41ca.jpg",
+    "static/media/bokkf.jpg": "/guires_task/static/media/bokkf.4bc061e8ce97bd9ff4f5.jpg",
+    "static/media/Life-science-company.jpg": "/guires_task/static/media/Life-science-company.e9079febe6c8c5a5f3d9.jpg",
+    "static/media/university.jpg": "/guires_task/static/media/university.22950898cf1f1d44a873.jpg",
+    "static/media/Researchers.jpg": "/guires_task/static/media/Researchers.667e3d1af52f36bd7e72.jpg",
+    "static/media/Industry.jpg": "/guires_task/static/media/Industry.3a61761dc3b85c587312.jpg",
+    "static/media/covid.jpg": "/guires_task/static/media/covid.a71cf31b70b376e7f079.jpg",
+    "static/media/Parkinson-blog.jpg": "/guires_task/static/media/Parkinson-blog.3781545fa77fbd90c969.jpg",
+    "static/media/slick.svg": "/guires_task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/guires_task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/guires_task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/guires_task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/guires_task/index.html",
+    "main.081373b6.css.map": "/guires_task/static/css/main.081373b6.css.map",
+    "main.11981be2.js.map": "/guires_task/static/js/main.11981be2.js.map",
+    "787.1d5d68d6.chunk.js.map": "/guires_task/static/js/787.1d5d68d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.081373b6.css",
+    "static/js/main.11981be2.js"
+  ]
+}
